@@ -66230,7 +66230,7 @@
     X.xA.prototype={}
     F.JA.prototype={
     V(a,b){var s=$.awj()
-    return M.aBY(new S.yH(C.If,"Arone Jerome - Mobile Developer",X.alr(null,C.qL),!1,null),s)}}
+    return M.aBY(new S.yH(C.If,"Aldrich Castañares - Mobile Developer",X.alr(null,C.qL),!1,null),s)}}
     F.yY.prototype={
     aS(){var s=null,r=t.V
     return new F.Rt(new N.bD(s,t.PK),H.a([new N.bD(s,r),new N.bD(s,r),new N.bD(s,r),new N.bD(s,r),new N.bD(s,r),new N.bD(s,r)],t.TY),C.n)}}
@@ -66284,10 +66284,10 @@
     F.pm(s,0,C.bI,C.b2)},
     $S:0}
     F.aeU.prototype={
-    $0(){$.hb().hS("open",["https://www.facebook.com/jejeromeee/"])},
+    $0(){$.hb().hS("open",["https://www.facebook.com/Aldrich01"])},
     $S:0}
     F.aeV.prototype={
-    $0(){$.hb().hS("open",["https://www.linkedin.com/in/arone-jerome-malicse-106a85188/"])},
+    $0(){$.hb().hS("open",["https://www.linkedin.com/in/aldrich-casta%C3%B1ares-424754207/"])},
     $S:0}
     F.aeW.prototype={
     $0(){$.hb().hS("open",[u.n,"_self"])},
@@ -66391,7 +66391,7 @@
     case 1:return P.a6(p,r)}})
     return P.a8($async$kT,r)},
     V(a,b){var s=null,r=t.p
-    return new A.KS(T.eV(H.a([C.bb,L.c7(this.a.c,s,s,s,C.cU,s,s),M.cD(s,s,C.p,s,s,C.d8,s,8,C.b3,s,s,s,40),C.bK,T.fq(H.a([T.eV(H.a([L.c7("Contact No.",s,s,s,C.ay.wL(C.D),s,s),C.iC,T.mA(D.jh(s,L.c7("09924207735",s,s,s,C.e_.Pp(C.hl,C.D),s,s),C.aa,!1,s,s,s,s,s,s,s,s,s,s,s,s,new M.adw(),s,s,s,s,s,s),C.cP,s,s,s,!0),C.aV,L.c7("Email",s,s,s,C.ay.wL(C.D),s,s),C.iC,T.mA(D.jh(s,L.c7("arone.portfolio@gmail.com",s,s,s,C.e_.Pp(C.hl,C.D),s,s),C.aa,!1,s,s,s,s,s,s,s,s,s,s,s,s,new M.adx(),s,s,s,s,s,s),C.cP,s,s,s,!0)],r),C.a1,C.N),C.Kt,T.aph(T.eV(H.a([E.a5y("name",1,C.ao,"Your name",new M.ady(),!0),C.aV,E.a5y("email",1,C.ao,"Your Email",new M.adz(),!0),C.aV,E.a5y("subject",1,C.ao,"Subject",new M.adA(),!0),C.aV,E.a5y("message",4,C.ao,"Message",new M.adB(),!0),C.bK,this.act()],r),C.an,C.N))],r),C.a1,C.b5,C.N)],r),C.a1,C.N),this.d,s)}}
+    return new A.KS(T.eV(H.a([C.bb,L.c7(this.a.c,s,s,s,C.cU,s,s),M.cD(s,s,C.p,s,s,C.d8,s,8,C.b3,s,s,s,40),C.bK,T.fq(H.a([T.eV(H.a([L.c7("Contact No.",s,s,s,C.ay.wL(C.D),s,s),C.iC,T.mA(D.jh(s,L.c7("09071055970",s,s,s,C.e_.Pp(C.hl,C.D),s,s),C.aa,!1,s,s,s,s,s,s,s,s,s,s,s,s,new M.adw(),s,s,s,s,s,s),C.cP,s,s,s,!0),C.aV,L.c7("Email",s,s,s,C.ay.wL(C.D),s,s),C.iC,T.mA(D.jh(s,L.c7("aldrichcastanares2@gmail.com",s,s,s,C.e_.Pp(C.hl,C.D),s,s),C.aa,!1,s,s,s,s,s,s,s,s,s,s,s,s,new M.adx(),s,s,s,s,s,s),C.cP,s,s,s,!0)],r),C.a1,C.N),C.Kt,T.aph(T.eV(H.a([E.a5y("name",1,C.ao,"Your name",new M.ady(),!0),C.aV,E.a5y("email",1,C.ao,"Your Email",new M.adz(),!0),C.aV,E.a5y("subject",1,C.ao,"Subject",new M.adA(),!0),C.aV,E.a5y("message",4,C.ao,"Message",new M.adB(),!0),C.bK,this.act()],r),C.an,C.N))],r),C.a1,C.b5,C.N)],r),C.a1,C.N),this.d,s)}}
     M.adC.prototype={
     $0(){this.a.e=this.b},
     $S:0}
@@ -66410,10 +66410,10 @@
     $0(){},
     $S:0}
     M.adw.prototype={
-    $0(){$.hb().hS("open",["tel:09924207735"])},
+    $0(){$.hb().hS("open",["tel:09071055970"])},
     $S:0}
     M.adx.prototype={
-    $0(){$.hb().hS("open",["mailto:arone.portfolio@gmail.com"])},
+    $0(){$.hb().hS("open",["mailto:aldrichcastanares@gmail.com"])},
     $S:0}
     M.ady.prototype={
     $1(a){var s="maxLength",r=t.N,q=H.kf(a.r,r,t.K)
@@ -66451,7 +66451,7 @@
     this.xO()},
     V(a,b){var s=null,r=t.p,q=T.fq(H.a([L.c7("Hi! I'm Aldrich ",s,s,s,C.xg.dC(C.q),s,s),new O.wt(new K.ae_(this),s,s,s,t._w)],r),C.an,C.b5,C.N),p=L.c7("\u201cOne of my most productive days was throwing away 1000 lines of code.\u201d",s,s,s,C.xg.dC(C.k),s,s),o=L.c7("- Ken Thompson -",s,s,s,C.LU.adr(C.k,C.ex),C.c3,s)
     return M.cD(s,T.eV(H.a([q,p,new T.eR(C.jv,s,s,o,s),T.By(H.a([new D.PU(this.ga44(),s,this.e,C.p,s,!1,new D.PV(C.O8,C.Dm,s),s)],r),0,10)],r),C.a1,C.N),C.p,s,s,C.yn,s,s,C.ch,C.CS,s,s,s)},
-    a45(){$.hb().hS("open",["https://bit.ly/aronemalicseresume"])}}
+    a45(){$.hb().hS("open",["https://drive.google.com/file/d/1IBn-HFDV3Lwiv7n5VOJq-GnzCTuHXKOj/view?fbclid=IwAR3sBxClFq_Uuf_ffJdCMLX3-LKQ7CblrSoOHasUfehiElSZoS8TH6sGKV4"])}}
     K.ae0.prototype={
     $1(a){return this.Uq(a)},
     Uq(a){var s=0,r=P.a9(t.P),q=this,p,o,n,m
@@ -76024,7 +76024,7 @@
     C.Em=H.a(s(["Flutter","Dart","Git","Android Studio","Pub Get","Firebase","Xcode","Google Map Services"]),t.s)
     C.HZ=new H.ax(2,{data:C.Eg,tools:C.Em},C.eV,t.g6)
     C.Ew=H.a(s([C.HZ]),t.tS)
-    C.Hn=new H.ax(2,{title:"Freelancer",jobs:C.Ew},C.lN,t.EU)
+    C.Hn=new H.ax(2,{title:"LEENTech Network Solutions",jobs:C.Ew},C.lN,t.EU)
     C.HK=new H.ax(2,{left_text:"2019-2021",right_text:"Graphic Artist"},C.aJ,t.w)
     C.HS=new H.ax(2,{left_text:"Task",right_text:"To provide an edited image for client expectation"},C.aJ,t.w)
     C.HJ=new H.ax(2,{left_text:"Description",right_text:"I was assigned to edit an image where I need to make an image remove its background and enhance its color if needed."},C.aJ,t.w)
@@ -76044,7 +76044,7 @@
     C.Ep=H.a(s(["Service"]),t.s)
     C.HX=new H.ax(2,{data:C.En,tools:C.Ep},C.eV,t.g6)
     C.DF=H.a(s([C.I_,C.HY,C.HX]),t.tS)
-    C.Ho=new H.ax(2,{title:"LEENTech Network Solutions",jobs:C.DF},C.lN,t.EU)
+    C.Ho=new H.ax(2,{title:"Freelancer",jobs:C.DF},C.lN,t.EU)
     C.cr=H.a(s([C.Hn,C.Ho]),t.Mq)
     C.Or=new N.uF("TrimPathMode.none")
     C.xo=new N.uF("TrimPathMode.sequential")
