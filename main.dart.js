@@ -66242,7 +66242,7 @@
     o*=0.5
     r=s.e
     q=t.p
-    o=H.a([T.fq(H.a([new T.dX(4,C.ap,T.iA(p,p,o),p),new T.dX(8,C.ap,T.iA(T.eV(H.a([new K.y2(r[0]),C.aV,M.cD(p,new V.EU("About me",r[1]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.aV,M.cD(p,new B.HL("Experiences",r[2]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.aV,M.cD(p,new V.KL("Projects",r[3]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.aV,M.cD(p,new R.HJ("Expand my skills",r[4]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.aV,M.cD(p,new M.xL("Get in touch",r[5]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.wW],q),C.an,C.N),p,o),p)],q),C.an,C.b5,C.N)],q)
+    o=H.a([T.fq(H.a([new T.dX(4,C.ap,T.iA(p,p,o),p),new T.dX(8,C.ap,T.iA(T.eV(H.a([new K.y2(r[0]),C.aV,M.cD(p,new V.EU("About me",r[1]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.aV,M.cD(p,new B.HL("Experiences",r[2]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.aV,M.cD(p,new R.HJ("Expand my skills",r[4]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.aV,M.cD(p,new M.xL("Get in touch",r[5]),C.p,p,p,C.d7,p,p,C.ch,C.dj,p,p,p),C.wW],q),C.an,C.N),p,o),p)],q),C.an,C.b5,C.N)],q)
     r=P.aH([null,0],t.LO,t.S)
     o=new M.mR(M.cD(p,T.AD(C.y_,H.a([C.IO,new B.yA(new G.a95(!0,!0,!0,o,r),C.l1,C.o,!1,p,!0,C.jz,!0,p,1,C.aa,C.wu,p,C.au,p),new T.dZ(C.l1,T.fq(H.a([new T.dX(4,C.ap,T.eV(H.a([new R.J3(T.eV(H.a([new F.kG("Home",C.Dg,new F.aeO(s),p),new F.kG("About",C.Dc,new F.aeP(s),p),new F.kG("Experience",C.Dd,new F.aeQ(s),p),new F.kG("Project",C.Dj,new F.aeR(s),p),new F.kG("Interested",C.Di,new F.aeS(s),p),new F.kG("Contact",C.De,new F.aeT(s),p),C.bb,T.By(H.a([F.ar7(C.D9,new F.aeU()),F.ar7(C.Da,new F.aeV()),C.KF],q),0,6)],q),C.a1,C.N),p),C.Kw],q),C.an,C.N),p),C.Ku,C.CW],q),C.an,C.qE,C.N),p),M.cD(p,T.fq(H.a([C.Oe,D.jh(p,C.Of,C.aa,!1,p,p,p,p,p,p,p,p,p,p,p,p,new F.aeW(),p,p,p,p,p,p),C.O9],q),C.an,C.qF,C.N),C.p,p,p,C.ym,p,p,p,p,p,p,1/0)],q),C.cN),C.p,p,p,C.yl,p,b.d,p,p,p,p,p),s.d)}else o=C.IU
     return o},
@@ -66449,7 +66449,7 @@
     return P.a8($async$xO,r)},
     b7(){this.bO()
     this.xO()},
-    V(a,b){var s=null,r=t.p,q=T.fq(H.a([L.c7("Hi! I'm Arone ",s,s,s,C.xg.dC(C.q),s,s),new O.wt(new K.ae_(this),s,s,s,t._w)],r),C.an,C.b5,C.N),p=L.c7("\u201cOne of my most productive days was throwing away 1000 lines of code.\u201d",s,s,s,C.xg.dC(C.k),s,s),o=L.c7("- Ken Thompson -",s,s,s,C.LU.adr(C.k,C.ex),C.c3,s)
+    V(a,b){var s=null,r=t.p,q=T.fq(H.a([L.c7("Hi! I'm Aldrich ",s,s,s,C.xg.dC(C.q),s,s),new O.wt(new K.ae_(this),s,s,s,t._w)],r),C.an,C.b5,C.N),p=L.c7("\u201cOne of my most productive days was throwing away 1000 lines of code.\u201d",s,s,s,C.xg.dC(C.k),s,s),o=L.c7("- Ken Thompson -",s,s,s,C.LU.adr(C.k,C.ex),C.c3,s)
     return M.cD(s,T.eV(H.a([q,p,new T.eR(C.jv,s,s,o,s),T.By(H.a([new D.PU(this.ga44(),s,this.e,C.p,s,!1,new D.PV(C.O8,C.Dm,s),s)],r),0,10)],r),C.a1,C.N),C.p,s,s,C.yn,s,s,C.ch,C.CS,s,s,s)},
     a45(){$.hb().hS("open",["https://bit.ly/aronemalicseresume"])}}
     K.ae0.prototype={
@@ -66479,7 +66479,7 @@
     $S:0}
     R.J3.prototype={
     V(a,b){var s=null
-    return new V.FE(C.kF,12,new X.dB(K.Fp(12),C.w),new T.dZ(C.CN,T.eV(H.a([C.zt,C.bb,L.c7("Arone Jerome Malicse",s,s,s,C.xf.dC(C.k),s,s),L.c7("Flutter Mobile Developer",s,s,s,C.ay.dC(C.hm),s,s),C.bb,this.c],t.p),C.a1,C.fc),s),s)}}
+    return new V.FE(C.kF,12,new X.dB(K.Fp(12),C.w),new T.dZ(C.CN,T.eV(H.a([C.zt,C.bb,L.c7("Aldrich Castañares",s,s,s,C.xf.dC(C.k),s,s),L.c7("Mobile Software Developer",s,s,s,C.ay.dC(C.hm),s,s),C.bb,this.c],t.p),C.a1,C.fc),s),s)}}
     V.KL.prototype={
     V(a,b){var s=null
     return T.eV(H.a([C.bb,L.c7(this.c,s,s,s,C.cU,s,s),M.cD(s,s,C.p,s,s,C.d8,s,8,C.b3,s,s,s,40),C.bK,B.rL(new V.a56(),3,C.b3,C.cB,!0),C.bb],t.p),C.a1,C.N)}}
@@ -76017,31 +76017,31 @@
     C.lN=H.a(s(["title","jobs"]),t.s)
     C.eV=H.a(s(["data","tools"]),t.s)
     C.aJ=H.a(s(["left_text","right_text"]),t.s)
-    C.HI=new H.ax(2,{left_text:"Nov. 2021",right_text:"Lead Mobile Software Engineer"},C.aJ,t.w)
-    C.HP=new H.ax(2,{left_text:"Task",right_text:"To provide professional services in form of mobile for iOS."},C.aJ,t.w)
-    C.HT=new H.ax(2,{left_text:"Description",right_text:"I was assigned to develop an IOS app. We used Flutter in Ipad and Iphone devices to develop the front-end and I was also assigned to deploy the application in App Store."},C.aJ,t.w)
+    C.HI=new H.ax(2,{left_text:"Feb. 2022 - Present",right_text:"Junior Mobile Software Developer"},C.aJ,t.w)
+    C.HP=new H.ax(2,{left_text:"Task",right_text:"To provide professional services in form of mobile for Android and iOS."},C.aJ,t.w)
+    C.HT=new H.ax(2,{left_text:"Description",right_text:"I was assigned to develop an Android and IOS app. We used Flutter, Ionic in  devices to develop the front-end and I was also assigned to deploy the application in App Store."},C.aJ,t.w)
     C.Eg=H.a(s([C.HI,C.HP,C.HT]),t.SN)
-    C.Em=H.a(s(["Flutter","Dart","Git","Android Studio","Pub Get","Firebase","Xcode","Google Map Services","Socket"]),t.s)
+    C.Em=H.a(s(["Flutter","Dart","Git","Android Studio","Pub Get","Firebase","Xcode","Google Map Services"]),t.s)
     C.HZ=new H.ax(2,{data:C.Eg,tools:C.Em},C.eV,t.g6)
     C.Ew=H.a(s([C.HZ]),t.tS)
-    C.Hn=new H.ax(2,{title:"Outsource",jobs:C.Ew},C.lN,t.EU)
-    C.HK=new H.ax(2,{left_text:"Aug. 2020",right_text:"Hybrid Software Engineer / Fullstack Mobile Developer"},C.aJ,t.w)
-    C.HS=new H.ax(2,{left_text:"Task",right_text:"To provide front-end for android app and back-end solutions for APIs"},C.aJ,t.w)
-    C.HJ=new H.ax(2,{left_text:"Description",right_text:"I was assigned to develop an Android app using Flutter for front-end and do some APIs creation and integration to the app."},C.aJ,t.w)
+    C.Hn=new H.ax(2,{title:"Freelancer",jobs:C.Ew},C.lN,t.EU)
+    C.HK=new H.ax(2,{left_text:"2019-2021",right_text:"Graphic Artist"},C.aJ,t.w)
+    C.HS=new H.ax(2,{left_text:"Task",right_text:"To provide an edited image for client expectation"},C.aJ,t.w)
+    C.HJ=new H.ax(2,{left_text:"Description",right_text:"I was assigned to edit an image where I need to make an image remove its background and enhance its color if needed."},C.aJ,t.w)
     C.Fk=H.a(s([C.HK,C.HS,C.HJ]),t.SN)
-    C.EM=H.a(s(["Flutter","API","Firebase","Laravel","Dart","Xcode","Git","Android Studio","Pub Get"]),t.s)
+    C.EM=H.a(s(["Adobe","Photoshop","Dropbox","Upwork"]),t.s)
     C.I_=new H.ax(2,{data:C.Fk,tools:C.EM},C.eV,t.g6)
-    C.HN=new H.ax(2,{left_text:"Aug. 2019",right_text:"Fullstack Software Engineer"},C.aJ,t.w)
-    C.HM=new H.ax(2,{left_text:"Task",right_text:"To provide front-end for the app and back-end solutions for APIs"},C.aJ,t.w)
-    C.HL=new H.ax(2,{left_text:"Description",right_text:"We develop a self monitoring app and Im assigned to do the front and back of the mobile using Ionic and do integrations of Laravel APIs."},C.aJ,t.w)
+    C.HN=new H.ax(2,{left_text:"2019-2022",right_text:"Technician(Self Employed)"},C.aJ,t.w)
+    C.HM=new H.ax(2,{left_text:"Task",right_text:"To fix the problem of my client technically"},C.aJ,t.w)
+    C.HL=new H.ax(2,{left_text:"Description",right_text:"Troubleshooting Computer/Laptop problems, Building setups for computer, install and configure hardware and software, etc."},C.aJ,t.w)
     C.El=H.a(s([C.HN,C.HM,C.HL]),t.SN)
-    C.Ey=H.a(s(["Ionic","Angular","NodeJs","Bootstrap","Git","Cpanel"]),t.s)
+   C.Ey=H.a(s(["Hardware","Software"]),t.s)
     C.HY=new H.ax(2,{data:C.El,tools:C.Ey},C.eV,t.g6)
-    C.HR=new H.ax(2,{left_text:"Jan. 2019",right_text:"Fullstack Web Developer"},C.aJ,t.w)
-    C.HQ=new H.ax(2,{left_text:"Task",right_text:" To provide front-end and back-end solutions for different websites."},C.aJ,t.w)
-    C.HO=new H.ax(2,{left_text:"Description",right_text:"This is was my first assignment in developing website. My task was to provide support on a maintenance project to ensure stability and to enhanced the website with client's need. Later, I was assigned to assist the mobile department to do APIs."},C.aJ,t.w)
+    C.HR=new H.ax(2,{left_text:"2017",right_text:"GMA Municipality(Work Immersion)"},C.aJ,t.w)
+    C.HQ=new H.ax(2,{left_text:"Task",right_text:" To provide a good service to the client by assisting them"},C.aJ,t.w)
+    C.HO=new H.ax(2,{left_text:"Description",right_text:"Assisting customers when they need something"},C.aJ,t.w)
     C.En=H.a(s([C.HR,C.HQ,C.HO]),t.SN)
-    C.Ep=H.a(s(["PHP","Zend Framework","API","Cpanel","Git","Bootstrap"]),t.s)
+    C.Ep=H.a(s(["Service"]),t.s)
     C.HX=new H.ax(2,{data:C.En,tools:C.Ep},C.eV,t.g6)
     C.DF=H.a(s([C.I_,C.HY,C.HX]),t.tS)
     C.Ho=new H.ax(2,{title:"LEENTech Network Solutions",jobs:C.DF},C.lN,t.EU)
@@ -76093,7 +76093,7 @@
     C.fZ=new K.Dm(0,"_RouteRestorationType.named")
     C.xX=new K.Dm(1,"_RouteRestorationType.anonymous")
     C.EQ=H.a(s([C.fZ,C.xX]),H.U("o<Dm>"))
-    C.ER=H.a(s(["I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems. In my three years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. I've also had the opportunity to do Web Development using Laravel/Angular and for Mobile Development using Flutter. I can do some animation using RIVE and implement it.","I'm excited to broaden my knowledge in order to improve my executions, testing, and user experience."]),t.s)
+    C.ER=H.a(s(["I'm an junior software engineer who constantly seeks out innovative solutions to everyday problems. In my almost one year in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. I've also had the opportunity to do Web Development using Laravel/Angular and for Mobile Development using Flutter and Ionic.","I'm excited to broaden my knowledge in order to improve my executions, testing, and user experience."]),t.s)
     C.ES=H.a(s(["1st quarter","2nd quarter","3rd quarter","4th quarter"]),t.s)
     C.j5=new H.d1("WordCharProperty.DoubleQuote")
     C.cY=new H.d1("WordCharProperty.SingleQuote")
@@ -77627,7 +77627,7 @@
     C.O4=new R.e5(C.Ma,C.Mb,C.Mc,C.Md,C.Me,C.M3,C.LX,C.MP,C.MQ,C.MR,C.LB,C.MF,C.Ll)
     C.xh=new U.Ns("TextWidthBasis.longestLine")
     C.O5=new L.el("I'd like to expand my skills and knowledge in several fields:",C.e_,null,null,null,null,null,null)
-    C.O6=new L.el("2015 - 2019 AMA Computer College - Cavite",C.ay,null,null,null,null,null,null)
+    C.O6=new L.el("2018 - 2022 STI College Carmona",C.ay,null,null,null,null,null,null)
     C.O8=new L.el("Download",null,null,null,null,null,null,null)
     C.O9=new L.el(". this page will close soon.",null,null,null,null,null,null,null)
     C.Oa=new L.el("Education",C.cU,null,null,null,null,null,null)
